@@ -1,3 +1,8 @@
+
+
+[![DOI](https://zenodo.org/badge/289182375.svg)](https://zenodo.org/badge/latestdoi/289182375)
+
+
 # Overview 
 
 Contains within this repository are the hardware files used for my masters project. One will find two sub directories
